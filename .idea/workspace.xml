@@ -50,13 +50,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="worker.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="worker.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/work-queues/worker.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6351931">
+            <state vertical-scroll-proportion="0.0">
               <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
               <folding>
                 <element signature="e#14#99#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emit_log.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/pubsub/emit_log.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding>
+                <element signature="e#14#99#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="receive_logs.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/pubsub/receive_logs.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37768242">
+              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+              <folding>
+                <element signature="e#14#83#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,6 +129,8 @@
         <option value="$PROJECT_DIR$/examples/work-queues/new_task.go" />
         <option value="$PROJECT_DIR$/examples/hello/receive.go" />
         <option value="$PROJECT_DIR$/examples/work-queues/worker.go" />
+        <option value="$PROJECT_DIR$/examples/pubsub/emit_log.go" />
+        <option value="$PROJECT_DIR$/examples/pubsub/receive_logs.go" />
       </list>
     </option>
   </component>
@@ -194,7 +220,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="work-queues" />
+              <option name="myItemId" value="pubsub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -542,12 +568,12 @@
       <created>1462761879503</created>
       <option name="number" value="Default" />
       <updated>1462761879503</updated>
-      <workItem from="1462761882969" duration="3024000" />
+      <workItem from="1462761882969" duration="4456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3024000" />
+    <option name="totallyTimeSpent" value="4456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1620" y="-1177" width="1920" height="1177" extended-state="6" />
@@ -624,10 +650,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/work-queues/worker.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6351931">
+        <state vertical-scroll-proportion="0.0">
           <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
           <folding>
             <element signature="e#14#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/pubsub/emit_log.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/pubsub/receive_logs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37768242">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding>
+            <element signature="e#14#83#0" expanded="true" />
           </folding>
         </state>
       </provider>
