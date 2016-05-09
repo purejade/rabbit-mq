@@ -10,5 +10,7 @@
 	4. rabbitmqctl list_queues
 	5. monitor: rabbitmq-plugins enable rabbitmq_management 
 	   http://localhost:15672/ 
+	6. rabbitmq-plugins list
+	7. rabbitmq-plugins enable/disable plugin-name
 
 		
